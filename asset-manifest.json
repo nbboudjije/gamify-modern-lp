@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/gamify-modern-lpp/static/css/main.8a4674c7.css",
-    "main.js": "/gamify-modern-lpp/static/js/main.4b94133e.js",
-    "index.html": "/gamify-modern-lpp/index.html",
-    "main.8a4674c7.css.map": "/gamify-modern-lpp/static/css/main.8a4674c7.css.map",
-    "main.4b94133e.js.map": "/gamify-modern-lpp/static/js/main.4b94133e.js.map"
+    "main.css": "/gamify-modern-lp/static/css/main.8a4674c7.css",
+    "main.js": "/gamify-modern-lp/static/js/main.4b94133e.js",
+    "index.html": "/gamify-modern-lp/index.html",
+    "main.8a4674c7.css.map": "/gamify-modern-lp/static/css/main.8a4674c7.css.map",
+    "main.4b94133e.js.map": "/gamify-modern-lp/static/js/main.4b94133e.js.map"
   },
   "entrypoints": [
     "static/css/main.8a4674c7.css",
